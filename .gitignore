@@ -13,6 +13,7 @@ node_modules/            # Installed packages
 dist/
 build/
 lib/                     # If you output here instead of dist
+.idea/
 
 #######################################################
 # Rollup & plugin caches
